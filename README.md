@@ -1,3 +1,3 @@
-# Taiga 0.1
+# Taiga 0.2
 
-Welcome to the first official commit from Rhodune Lab!
+Welcome to Taiga! a *Rhodune! Lab* project
