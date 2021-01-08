@@ -1,3 +1,6 @@
-# Taiga 0.1
+# Taiga 2.0
 
-Welcome to the first official commit from Rhodune Lab!
+Welcome to Taiga!
+
+**Conifer** editor is now included in the Solution.
+> v0_2b_1500060121 — *Rhodune! Lab*
