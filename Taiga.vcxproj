@@ -67,7 +67,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_TGA_TARGET_PLATFORM_WINDOWS_;</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_TAIGA_TARGET_PLATFORM_WINDOWS_; _TAIGA_DLL_;</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -81,7 +81,7 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_TGA_TARGET_PLATFORM_WINDOWS_;</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_TAIGA_TARGET_PLATFORM_WINDOWS_; _TAIGA_DLL_;</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>

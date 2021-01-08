@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Taiga", "Taiga.vcxproj", "{0F8389B1-B4F0-477B-A082-5A108EBBF6A2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conifer", "..\Conifer\Conifer.vcxproj", "{9C3B4687-1558-4696-9119-8CCB956D998F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conifer", "..\Conifer\Conifer.vcxproj", "{438B064C-E107-4949-84B6-6C7825ADDD2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0F8389B1-B4F0-477B-A082-5A108EBBF6A2}.Debug|x64.Build.0 = Debug|x64
 		{0F8389B1-B4F0-477B-A082-5A108EBBF6A2}.Release|x64.ActiveCfg = Release|x64
 		{0F8389B1-B4F0-477B-A082-5A108EBBF6A2}.Release|x64.Build.0 = Release|x64
-		{9C3B4687-1558-4696-9119-8CCB956D998F}.Debug|x64.ActiveCfg = Debug|x64
-		{9C3B4687-1558-4696-9119-8CCB956D998F}.Debug|x64.Build.0 = Debug|x64
-		{9C3B4687-1558-4696-9119-8CCB956D998F}.Release|x64.ActiveCfg = Release|x64
-		{9C3B4687-1558-4696-9119-8CCB956D998F}.Release|x64.Build.0 = Release|x64
+		{438B064C-E107-4949-84B6-6C7825ADDD2A}.Debug|x64.ActiveCfg = Debug|x64
+		{438B064C-E107-4949-84B6-6C7825ADDD2A}.Debug|x64.Build.0 = Debug|x64
+		{438B064C-E107-4949-84B6-6C7825ADDD2A}.Release|x64.ActiveCfg = Release|x64
+		{438B064C-E107-4949-84B6-6C7825ADDD2A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
