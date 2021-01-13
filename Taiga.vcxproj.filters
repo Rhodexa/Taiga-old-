@@ -21,10 +21,26 @@
     <ClInclude Include="src\Taiga.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="libs\glfw332\include\GLFW\glfw3.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\glfw332\include\GLFW\glfw3native.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Taiga\TaigaMain.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Taiga\TaigaCore.cpp">
+    <ClCompile Include="src\Taiga\TaigaMain.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="libs\glfw332\lib-vc2019\glfw3.lib" />
+    <Library Include="libs\glfw332\lib-vc2019\glfw3dll.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="libs\glfw332\lib-vc2019\glfw3.dll" />
   </ItemGroup>
 </Project>

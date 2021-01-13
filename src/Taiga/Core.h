@@ -1,9 +1,7 @@
 #pragma once
 
-
-
-#ifdef _TAIGA_TARGET_PLATFORM_WINDOWS_
-	#ifdef _TAIGA_DLL_
+#ifdef _TAIGA_TARGET_PLATFORM_WINDOWS
+	#ifdef _TAIGA_DLL
 		#define TAIGA __declspec(dllexport)
 	#else
 		#define	TAIGA __declspec(dllimport)
