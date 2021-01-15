@@ -28,6 +28,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</ExcludedFromBuild>
     </ClInclude>
     <ClInclude Include="src\Taiga\Core.h" />
+    <ClInclude Include="src\Taiga\EntryPoint.h" />
     <ClInclude Include="src\Taiga\TaigaMain.h" />
   </ItemGroup>
   <ItemGroup>

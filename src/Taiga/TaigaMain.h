@@ -1,10 +1,19 @@
 #pragma once
+#include "Core.h"
 
 namespace tga {
-	class TAIGA Taiga {
+	class TAIGA App {
 	public:
-		Taiga();
-		virtual ~Taiga();
-		void Printme(const char* text);
+		int width = 480;
+		int height = 340;
+		const char* title = "Taiga Window";
+		bool autobegin = true;
+		App();
+		virtual ~App();
+
+		void Run();
 	};
+
+	App* createApp();
 }
+
